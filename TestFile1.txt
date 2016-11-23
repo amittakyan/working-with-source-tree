@@ -2,4 +2,5 @@ Hello world Git!! First check-in. checking file merge
 This is the second line
 Repo Name is AA
 I am working on TestFile1.txt
-checking file merge 
+checking file merge
+Hello My Name is RepoA
