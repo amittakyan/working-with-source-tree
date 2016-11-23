@@ -1,1 +1,2 @@
-Hello world Git!! First check-in
+Hello world Git!! First check-in.
+This is the second line
